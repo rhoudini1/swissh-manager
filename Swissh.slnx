@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Swissh.Client/Swissh.Client.csproj" />
+  <Project Path="Swissh/Swissh.csproj" />
+</Solution>
